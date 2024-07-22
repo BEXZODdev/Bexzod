@@ -1,0 +1,36 @@
+.father {
+    border: 2px solid red;
+    width: 1000px;
+    height: 600px;
+    margin: auto;
+}
+.big-box1 {
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.box1 {
+    border: 2px solid rgb(143, 15, 218);
+    width: 100px;
+    height: 100px;
+}
+.box2 {
+    border: 2px solid rgb(10, 43, 230);
+    width: 100px;
+    height: 100px;
+}
+.big-box2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 393px;
+}
+.box3 {
+    border: 2px solid rgb(90, 8, 241);
+    width: 100px;
+    height: 100px;
+}.box4 {
+    border: 2px solid rgb(63, 15, 238);
+    width: 100px;
+    height: 100px;
+}
